@@ -17,12 +17,12 @@ This project is divided into two main parts:
 
 ##  Tech Stack
 
-| Layer      | Technology                              |
+| Layer      | Technology                               |
 |------------|------------------------------------------|
-| Frontend   | React.js, Material UI (MUI), Custom CSS |
+| Frontend   | React.js, Material UI (MUI), Custom CSS  |
 | Backend    | Node.js, Express.js                      |
 | Database   | MongoDB (Mongoose)                       |
-| Hosting    | Netlify (Frontend), Localhost or Cloud (Backend) |
+| Hosting    | Netlify (Frontend), Localhost            |
 
 ---
 
